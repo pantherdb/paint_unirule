@@ -1,0 +1,7 @@
+#properties
+#Fri Aug 19 15:04:10 PDT 2022
+servlet_url=https://unirule.paint.usc.edu
+tree_scaling=50.0
+uniprot_url_dev=https://wwwdev.ebi.ac.uk/uniprot/unirule/import/import?wsdl
+uniprot_url_prod=https://www.ebi.ac.uk/uniprot/unirule/import/import?wsdl
+uniprot_url_connect=uniprot_url_prod
