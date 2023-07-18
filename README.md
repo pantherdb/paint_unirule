@@ -6,7 +6,7 @@ The UniRule annotation system allows curators to add annotations to protein sequ
 
 **Build Instructions**
 1.  Ensure command 'java -version' returns version 1.11
-2.  If there has been any changes in UniRule/PANTHER interface, build UniRule dependent jar files and copy into directory gopaint\lib\thirdParty\Unirule
+2.  If there has been any changes in UniRule/PANTHER interface, build UniRule dependent jar files and copy into directory gopaint/lib/thirdParty/Unirule
 3.  Ensure gopaint/build.xml refers to library files from UniRule
 4.  cd into directory  gopaintServer and execute command 'ant cleanall', if there are any previous builds. Now execute command 'ant'  
 5.  Execute command 'ant pub' .  This will buid the executables for the server and client and copy into directory for deployment
