@@ -14,5 +14,6 @@ The UniRule annotation system allows curators to add annotations to protein sequ
 
 
 **Tracking node changes due to UPL change**
+
 GenerateUPLChangeInfo utility can be used to determine which nodes have moved to a new family, been removed.  All families that have been annotated should be reviewed whenever a new UPL is released since new sequences may have been added to the family and or the topology of hte family may have changed     
 
