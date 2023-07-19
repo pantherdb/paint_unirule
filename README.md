@@ -1,4 +1,4 @@
-# H1 PAINT Unirule
+#  PAINT Unirule
 
 
 The UniRule annotation system allows curators to add annotations to protein sequences. The PAINT client tool enables curators to view both GO annotations and UniRule annotations in a phylogenetic context. It allows curators to create groupings (cases) of annotations if a set of sequences have been annotated to the same list of annotations. 
